@@ -1,0 +1,49 @@
+html {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(KOmbi\ lindona\ 2.0.jpg);
+}
+
+body {
+    background-color: white;
+    background-position: 400px;
+    padding: 20px;
+    opacity: 100%;
+    margin: auto 100px;
+    opacity: 90%;
+}
+
+p {
+    font-size: 20px;
+}
+
+.section {
+    display: flex;
+    padding: 10px 10px;
+}
+
+.teste1 {
+    width: 70%;
+}
+
+.teste2{
+    padding: 0%;
+    width: 4000px;
+}
+h3{color: greenyellow;}
+
+ul{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+    list-style-type: none;
+}
+
+ul li{
+    text-decoration-style: none;
+    padding-left: 200px;
+}
+nav img {
+    position: absolute
+}
